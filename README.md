@@ -11,5 +11,5 @@ Brake – grabs/drops a piece
 Paddle shift - menu operation
 
 What you need:
-Sim Racing gear(with a wheel, two pedals, and two paddle shifts) - or you can maybe replace it with some sort of a controller, that'd be cool too
+Sim Racing gear(with a wheel, two pedals, and two paddle shifts) - or you can maybe replace it with some sort of a controller, that'd be cool too.
 Stockfish API, it's free to download.
